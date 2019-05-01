@@ -3,8 +3,7 @@
   
   "whitelist": [
     "client.turtlenetwork.eu",
-    "testnet.turtlenetwork.eu",
-    "oracles.turtlenetwork.eu"
+    "turtleshell.turtlenetwork.eu"
   ],
   "blacklist": [
     "binance-promo.net"
