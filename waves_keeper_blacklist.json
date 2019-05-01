@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  
+  "whitelist": [
+    "client.wavesplatform.com",
+    "testnet.wavesplatform.com",
+    "oracles.wavesexplorer.com",
+    "vostok.wavesplatform.com"
+  ],
+  "blacklist": [
+    "binance-promo.net"
+  ],
+  "network_config": {},
+  "messages_config": {
+    "message_expiration_ms": 1800000,
+    "update_messages_ms": 30000,
+    "max_messages": 100
+  },
+  "pack_config": {
+    "max": 7,
+    "allow_tx": [3, 4, 5, 6, 7, 10, 11, 12]
+  }
+}
